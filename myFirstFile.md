@@ -1,4 +1,6 @@
-we are in the git 101 session
+This is a read me file
+We are in the git 101 session
+We are writing another sentence
 # 1- Headings
 How to give headings in markdown files
 # Heading 1
